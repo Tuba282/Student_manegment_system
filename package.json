@@ -1,0 +1,23 @@
+{
+  "name": "student_management_system_by_tubajan",
+  "version": "1.0.1",
+  "description": "This project is a simple console based Student Management System.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the great TUBA JAN",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figet": "^0.0.83",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7"
+  }
+}
